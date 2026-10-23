@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! Soy Juan Alvarado 👋
 
-<!--
-**JujongPix/JujongPix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📐 Arquitecto & Desarrollador
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil de GitHub! Me apasiona el diseño arquitectónico, el desarrollo web y la creación de proyectos digitales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Herramientas y Tecnologías
+
+- **Arquitectura & Diseño:** Revit, AutoCAD, SketchUp
+- **Desarrollo & Control de Versiones:** HTML, CSS, Git, GitHub, VS Code
+
+---
+
+### 🌐 Mi Portafolio Web
+Puedes ver mis proyectos publicados en vivo en:
+👉 [jujongpix.github.io](https://jujongpix.github.io)
+
+---
+
+### 📫 Contacto
+- **GitHub:** [@JujongPix](https://github.com/JujongPix)
+- **Correo:** alvaradocruzjuan429@gmail.com
